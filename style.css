@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #cab8b8;
+    font-family: 'Bakbak One', cursive;
+
+}
+
+.mul{
+    max-width: 1000px;
+    background-color: #50c9a1;
+    margin: 0 auto;
+    padding: 20px;
+    
+
+}
+
+header{
+
+}
+.pro-img{
+    height: 150px;
+    width: 140px;
+    border: #ffffff solid 3px;
+    border-radius: 50%;
+    float: left;
+
+
+}
+
+.lika{
+    float: left;
+    padding: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #d14521;
+}
+
+.social{
+    float: right;
+    padding: 30px;
+}
+
+.social a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #d14521;
+
+}
+
+.social a:hover{
+    color:#e7ff0b ;
+    cursor: help ;
+    
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    margin: 15px auto;
+    border: #0d09ff solid 4px;
+    width: 100%;
+    border-bottom: none;
+}
+    
+/* heder end */
+
+
+
+
+/* main start */
+
+main{
+
+}
+
+#se1{
+
+}
+
+.content{
+margin: 30px;
+text-align: justify;
+}
+
+.left{
+    float: left;
+    width: 30%;
+    
+    
+
+
+}
+.p1{
+    
+   
+}
+
+.right{
+    float: left;
+    width: 70%;
+    
+}
+
+
+.hr-comon{
+    border: #9e7546 solid 2px;
+    margin-right: 10px ;
+    padding-bottom: none;
+    
+
+
+}
+
+
+/* ---------------educatione start ---------------*/
+.ssc{
+float: left;
+width: 45%;
+}
+.hsc{
+   float: right;
+   width: 45%;
+   
+}
+/* ---------------educatione end ---------------*/
+
+
+
+
+
+/* -------------------honors and awards start----------------- */
+
+.list{
+padding-left: 40px;
+float: center;
+
+}
+
+/* -------------------honors and awards end----------------- */
+/* ---------------main end ---------------*/
+
+
+
+/* ----------------------footer :start---------------------- */
+.footer{
+background-color: black;
+color: #f1e7e7;
+height: 100px;
+text-align: center;
+margin: 10px;
+padding: 20px;
+
+}
+
+.footer a{
+    text-decoration: none;
+    color:#ffffff ;
+    word-spacing: 15px;
+    
+}
+
+.footer a:hover{
+    color: #e7ff0b;
+    padding: 40px;
+}
+
+.footer p:hover{
+    margin-bottom: -10px;
+    color: #d14521;
+}
+
+
+
+/* ----------------------footer :end---------------------- */
